@@ -1,0 +1,23 @@
+{
+  "name": "karma",
+  "symbol": "karma",
+  "description": "Join the Cult of Karma! Website: https://cult-of-karma.xyz/, Twitter: https://x.com/i/communities/1932758864237039919, Telegram: https://t.me/karma_solana_launch",
+  "seller_fee_basis_points": 0,
+  "image": "https://ipfs.io/ipfs/bafybeihkeobikrgj3kzqrwpq5esvde5tqna6dg6bnqhfiothv4xwz2mlyi",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/bafybeihkeobikrgj3kzqrwpq5esvde5tqna6dg6bnqhfiothv4xwz2mlyi",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DegfoiUk9fkpT4nWXhP2U5QYo78tnrNpBXkERqo9rgdo",
+        "share": 100
+      }
+    ]
+  }
+}
