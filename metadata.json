@@ -1,14 +1,15 @@
 {
-  "name": "karma",
-  "symbol": "karma",
-  "description": "Join the Cult of Karma! Website: https://cult-of-karma.xyz/, Twitter: https://x.com/i/communities/1932758864237039919, Telegram: https://t.me/karma_solana_launch",
+  "name": "Trump Birthday",
+  "symbol": "79th",
+  "description": "Happy 79th birthday, Mr. President 🎉",
   "seller_fee_basis_points": 0,
-  "image": "https://ipfs.io/ipfs/bafybeihkeobikrgj3kzqrwpq5esvde5tqna6dg6bnqhfiothv4xwz2mlyi",
+  "image": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/TRUMP.png",
+  "external_url": "https://x.com/search?q=79th",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://ipfs.io/ipfs/bafybeihkeobikrgj3kzqrwpq5esvde5tqna6dg6bnqhfiothv4xwz2mlyi",
+        "uri": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/TRUMP.png",
         "type": "image/png"
       }
     ],
@@ -19,5 +20,8 @@
         "share": 100
       }
     ]
+  },
+  "extensions": {
+    "twitter": "https://x.com/search?q=79th",
   }
 }
