@@ -1,15 +1,15 @@
 {
-  "name": "Trump Birthday",
-  "symbol": "79th",
-  "description": "Happy 79th birthday, Mr. President 🎉",
+  "name": "Elon's Birthday",
+  "symbol": "54th",
+  "description": "Happy, 54th Birthday Mr. Elon Musk",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/TRUMP.png",
+  "image": "https://github.com/xblyxxxyk/sssssss/blob/main/ELONS.png",
   "external_url": "https://x.com/search?q=79th",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/TRUMP.png",
+        "uri": "https://pbs.twimg.com/community_banner_img/1933489181084557312/WTlqFWNC?format=jpg&name=small",
         "type": "image/png"
       }
     ],
@@ -22,6 +22,6 @@
     ]
   },
   "extensions": {
-    "twitter": "https://x.com/search?q=79th",
+    "twitter": "https://x.com/i/communities/1933480328611705156",
   }
 }
