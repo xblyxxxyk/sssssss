@@ -1,15 +1,15 @@
 {
-  "name": "Elon's Birthday",
-  "symbol": "54th",
-  "description": "Happy, 54th Birthday Mr. Elon Musk",
+  "name": "@elonmusk: Service paused for “local events” lmao",
+  "symbol": "LOCAL",
+  "description": "@elonmusk: Service paused for “local events” lmao",
   "seller_fee_basis_points": 0,
-  "image": "https://github.com/xblyxxxyk/sssssss/blob/main/ELONS.png",
-  "external_url": "https://x.com/search?q=79th",
+  "image": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/pause.png",
+  "external_url": "https://x.com/elonmusk/status/1933808533424013313",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://pbs.twimg.com/community_banner_img/1933489181084557312/WTlqFWNC?format=jpg&name=small",
+        "uri": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/pause.png",
         "type": "image/png"
       }
     ],
@@ -22,6 +22,6 @@
     ]
   },
   "extensions": {
-    "twitter": "https://x.com/i/communities/1933480328611705156",
+    "twitter": "https://x.com/elonmusk/status/1933808533424013313",
   }
 }
