@@ -1,27 +1,27 @@
 {
-  "name": "@elonmusk: Service paused for “local events” lmao",
-  "symbol": "LOCAL",
-  "description": "@elonmusk: Service paused for “local events” lmao",
+  "name": "Billion Dollar Propaganda Machine",
+  "symbol": "BDPM",
+  "description": "@elonmusk: Billion Dollar Propaganda Machine",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/pause.png",
+  "image": "https://github.com/xblyxxxyk/sssssss/blob/main/BDPM.png",
   "external_url": "https://x.com/elonmusk/status/1933808533424013313",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/xblyxxxyk/sssssss/refs/heads/main/pause.png",
+        "uri": "https://github.com/xblyxxxyk/sssssss/blob/main/BDPM.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "DegfoiUk9fkpT4nWXhP2U5QYo78tnrNpBXkERqo9rgdo",
+        "address": "2BsN189hkJWSjmjVXEAhnF627bjTHL27TDT3QDFUo8rk",
         "share": 100
       }
     ]
   },
   "extensions": {
-    "twitter": "https://x.com/elonmusk/status/1933808533424013313",
+    "twitter": "https://x.com/RepLuna/status/1933555002158850090",
   }
 }
